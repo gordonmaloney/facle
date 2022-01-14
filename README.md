@@ -1,4 +1,4 @@
-a quick and dirty worlde clone in scottish gaelic
+a quick and dirty wordle clone in scottish gaelic
 
 original code and absolutely any and all rights belong to Josh Wardle
 
