@@ -1567,7 +1567,6 @@
         "favor",
         //START OF GAELIC WORDS
 
-        "dhiot",
         "gille",
         "clach",
         "cùrsa",
@@ -1587,7 +1586,7 @@
         "shuas",
         "teich",
         "clann",
-        "doirt",
+        "dòirt",
         "nochd",
         "sgeir",
         "tòmas",
